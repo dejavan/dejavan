@@ -1,7 +1,7 @@
 ## Opa! 👋
 
 ###### Sobre o Pedro
-5 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Mobile, Web, automações
+Iniciante na área de programação, ex-engenheiro quimico, focando em atuar em front-end 
 
 ### Detalhes
 
